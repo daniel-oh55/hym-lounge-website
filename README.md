@@ -26,6 +26,9 @@ HYM LOUNGE 공식 조직 웹사이트와 모바일 애플리케이션 소개 페
 │  │  └─ index.html
 │  └─ terms/
 │     └─ index.html
+├─ minmove/
+│  └─ privacy/
+│     └─ index.html
 └─ support/
    └─ index.html
 ```
